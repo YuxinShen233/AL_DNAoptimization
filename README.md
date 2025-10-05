@@ -1,6 +1,6 @@
 # Optimization of regulatory DNA with active learning
 
-Code and data for paper “Optimization of regulatory DNA with active learning” by Shen, Kudla and Oyarzún.
+Code and data for paper [“Optimization of regulatory DNA with active learning”][https://www.biorxiv.org/content/10.1101/2025.06.27.661924v1] by Shen, Kudla and Oyarzún.
 
 data.zip - includes all NK landscapes in csv format.
  
