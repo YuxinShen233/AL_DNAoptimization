@@ -2,9 +2,9 @@
 
 Code and data for paper [“Optimization of regulatory DNA with active learning”](https://www.biorxiv.org/content/10.1101/2025.06.27.661924v1) by Shen, Kudla and Oyarzún.
 
-data.zip - includes all NK landscapes in csv format.
+/data - includes all NK landscapes in csv format.
  
-code.zip - includes Python code for reproducing the results of the paper.
+/code - includes Python code for reproducing the results of the paper.
 
 ### 1. Code overview.
 It contains two subfolders on NK landscape and promoter landscape respectively, and one environment file.
